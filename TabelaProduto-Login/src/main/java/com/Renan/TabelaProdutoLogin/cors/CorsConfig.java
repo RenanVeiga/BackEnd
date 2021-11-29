@@ -1,4 +1,4 @@
-package com.Renan.TabelaProdutoLogin;
+package com.Renan.TabelaProdutoLogin.cors;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
